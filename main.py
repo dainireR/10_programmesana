@@ -1,3 +1,4 @@
+print("Daiga")
 '''
 a=10
 x=7
